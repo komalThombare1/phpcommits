@@ -16,7 +16,12 @@ form {
     border: 1px solid #1A33FF;  
     background: #ecf5fc;  
     padding: 40px 50px 45px;  
-}  
+}
+        form {  
+    border: 1px solid #1A33FF;  
+    background: #ecf5fc;  
+    padding: 40px 50px 45px;  
+}
    h2 {  
  font-style: italic;  
 font-family: "Playfair Display","Bookman",serif;  
